@@ -1,2 +1,2 @@
 # rust-gc-design
-Design docs for GC hooks for RUst
+Design docs for GC hooks for Rust
